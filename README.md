@@ -26,7 +26,7 @@ import numpy as np
 ## Images
 <p align="center">
 	<img src="camera.jpg" alt="Logo", height=250px,width=350px>
-	<img src="camerasketch.png" alt="sketch", height=250px,width=340px>
+	<img src="camerasketch.PNG" alt="sketch", height=250px,width=340px>
 </p>
 
 ### Developed by
