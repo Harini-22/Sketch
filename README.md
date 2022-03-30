@@ -1,7 +1,6 @@
 # pencil-sketch
 Normal image(jpg/png/jpeg) to sketch<br>
-This project demonstrates how to<br>
-apply sketch effect in an image.<br>
+This project demonstrates how to apply sketch effect in an image.<br>
 This projects involves various methods like image sharpening, applying grayscale, gaussian blurs and <br>
 invertion of an image.This project is a combination of our previous basic projects.<br>
 
