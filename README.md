@@ -28,5 +28,4 @@ import numpy as np
 	<img src="camerasketch.PNG" alt="sketch", height=250px,width=340px>
 </p>
 
-### Developed by
- [Rajkumar K K](https://github.com/rajkmr-kk "Github Id")
+
